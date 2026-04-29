@@ -24,3 +24,6 @@
   color: var(--medium-blue);
   font-size: 36px;
 }
+.features .icon span{
+  font-size: 36px;
+}
