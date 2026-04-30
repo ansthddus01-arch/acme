@@ -20,14 +20,12 @@
   align-items: center;
   border: 1px solid var(--medium-blue);
   border-radius: 50%;
-  border-spacing: border-box;
+  box-sizing: border-box;
   color: var(--medium-blue);
-  font-size: 36px;
 }
 .features .icon span {
   font-size: 36px;
 }
-
 .testimonial li {
   font-weight: 300;
   color: var(--light-blue);
